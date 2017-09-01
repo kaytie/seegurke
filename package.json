@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "scripts":{
-    "build":"tsc"
+  "scripts": {
+    "build": "tsc"
   },
   "dependencies": {
-    "typescript": "^2.5.2"
+    "@types/node": "^8.0.26",
+    "tslint": "^5.7.0",
+    "typescript": "^2.5.2",
+    "typings": "^2.1.1"
   }
 }
