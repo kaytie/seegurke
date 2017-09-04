@@ -1,2 +1,3 @@
 export * from "./Pipeline";
-export * from "./PipelineBuilder.ts";
+export * from "./PipelineBuilder";
+export * from "./PipelineManager";
